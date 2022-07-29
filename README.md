@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Daphy!</h2>
+<h2 align="center">Hi, I'm Daphy! 😁✌️</h2>
 <h3 align="center">A passionate web and desktop programming developer from Turkey!</h3>
 
                                              - 🌱 I’m currently learning Ruby, Swift.
